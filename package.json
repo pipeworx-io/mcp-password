@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-password",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Password strength analysis MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "password",
     "gatewaySlug": "password",
-    "sourceHash": "v1-cf59b57156d7209561544fd2eb3a1100319e5c8540af92e82167759824f4e030",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-79145eb95c12ec71e7ca04b087ff4c3e7e439a3c6acd55eff5b2b89ac6ef8694",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
